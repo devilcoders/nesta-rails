@@ -23,7 +23,7 @@ files in your content/pages directory.
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "nesta", "~> 0.9.13"
-  s.add_dependency "rails", "~> 3.2.6"
+  s.add_dependency "rails", "~> 3.1.0"
 
   s.add_development_dependency "sqlite3"
 end
